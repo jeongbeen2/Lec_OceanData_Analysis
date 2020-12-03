@@ -1,1 +1,3 @@
-# read me!
+# Hanyang Univ.
+
+# Ocean Data Analysis
